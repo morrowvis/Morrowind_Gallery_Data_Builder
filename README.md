@@ -3,9 +3,9 @@
   <a href="https://ms-arch.gitbook.io/morrowind-visualisation-project/morrowind-gallery-data-builder/functions">Documentation</a>
 </p
   
-* Tool for generating JSONs for galleries. 
-* Works off a folder input.
+* Simple tool for generating filtered JSONs for galleries. 
 * Uses tes3conv to generate JSON, then JSON is filtered.
+* Works off a folder input.
 
 ### Prerequistes
 
