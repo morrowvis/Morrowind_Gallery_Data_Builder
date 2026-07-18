@@ -140,7 +140,7 @@ if ($made -lt $expected) {
     Write-Host ("WARNING: expected {0} webp files, found {1}." -f $expected, $made) -ForegroundColor Yellow
     [void][System.Windows.Forms.MessageBox]::Show(
         ("WEBP conversion finished with problems.`n`nExpected {0} files, found {1}.`nElapsed: {2:n1}s" -f $expected, $made, $sw.Elapsed.TotalSeconds),
-        "Morrowind PNG to WEBP Thumbnails",
+        "Morrowind PNG to WEBPs",
         [System.Windows.Forms.MessageBoxButtons]::OK,
         [System.Windows.Forms.MessageBoxIcon]::Warning)
     exit 1
@@ -149,7 +149,7 @@ if ($made -lt $expected) {
 Write-Host ("OK: {0} webp files." -f $made) -ForegroundColor Green
 [void][System.Windows.Forms.MessageBox]::Show(
     ("WEBP conversion complete.`n`n{0} files written in {1:n1}s." -f $made, $sw.Elapsed.TotalSeconds),
-    "Morrowind PNG to WEBP Thumbnails",
+    "Morrowind PNG to WEBPs",
     [System.Windows.Forms.MessageBoxButtons]::OK,
     [System.Windows.Forms.MessageBoxIcon]::Information)
 
