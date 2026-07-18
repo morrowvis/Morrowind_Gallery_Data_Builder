@@ -70,10 +70,6 @@ echo.
 
 powershell -ExecutionPolicy Bypass -File "%~dp0run_webp_parallel.ps1" -irfanview "%IRFANVIEW%" -input_dir "%SOURCE%" -output_dir "%OUTPUT_DIRECTORY%" -renders_name "%RENDERS_DIRECTORY%" -renders_size %RENDERS_SIZE% -thumbnails_name "%THUMBNAILS_DIRECTORY%" -thumbnails_size %THUMBNAILS_SIZE% -quality %WEBP_QUALITY% -method %WEBP_METHOD% -passes %WEBP_PASSES% -lossless %WEBP_LOSSLESS% %WORKERS_ARG%
 if errorlevel 1 goto :failed
-
-echo.
-echo %C_OK%Done.%C_RESET%
-pause
 exit /b 0
 
 
