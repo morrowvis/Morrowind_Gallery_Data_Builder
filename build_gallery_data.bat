@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 rem ===================== CONFIG =====================
 set "input_directory="
-set "output_directory=%~dp0output_json"
+set "output_directory=%~dp0output json"
 set "skip_small_plugins=1"
 set "min_plugin_size_kb=1024"
 rem ==================================================

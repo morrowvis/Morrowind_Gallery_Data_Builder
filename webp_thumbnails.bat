@@ -7,7 +7,7 @@ rem ===================== CONFIG =====================
 set "IRFANVIEW=C:\Program Files\IrfanView\i_view64.exe"
 
 set "SOURCE="
-set "OUTPUT_DIRECTORY=%~dp0output_webp"
+set "OUTPUT_DIRECTORY=%~dp0output webp"
 
 set "RENDERS_DIRECTORY=renders"
 set "RENDERS_SIZE=1024"
