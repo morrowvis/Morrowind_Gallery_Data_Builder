@@ -8,8 +8,8 @@ Batch tools for the morrowvis pipeline.
 ### Prerequisites
 These are prerequisites across all tools, and not all are needed for individual tools. 
 <br>Warnings will display if the prerequisite is missing.
-* [tes3conv](https://github.com/Greatness7/tes3conv) in `Shared`
-* [oxipng](https://github.com/oxipng) in `Shared`
+* [tes3conv](https://github.com/Greatness7/tes3conv) in `Shared` folder
+* [oxipng](https://github.com/oxipng) in `Shared` folder
 * [Python](https://www.python.org/downloads/)
 * [IrfanView](https://www.irfanview.com/)
 * [IrfanView Plugins](https://www.irfanview.com/plugins.htm)
