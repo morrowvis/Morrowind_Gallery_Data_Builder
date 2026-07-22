@@ -4,7 +4,8 @@
 </p>
   
 ### Prerequisites
-
+These are prerequisites across all tools, and not all are needed for individual tools. 
+<br>Warnings will display if the prerequisite is missing.
 * [tes3conv](https://github.com/Greatness7/tes3conv) in `Build_Gallery_Data`
 * [oxipng](https://github.com/oxipng) in `Render_Blender_Thumbnails`
 * [Python](https://www.python.org/downloads/)
