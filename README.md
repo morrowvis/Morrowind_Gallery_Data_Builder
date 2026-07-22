@@ -1,6 +1,6 @@
 <h1 align="center">Morrowind Library Tools</h1>
 <p align="center">
-  <a href="https://ms-arch.gitbook.io/morrowvis/morrowind-library-tools/functions">Documentation</a>
+  <a href="https://ms-arch.gitbook.io/morrowvis/morrowind-library-tools/">Documentation</a>
 </p>
   
 ### Prerequisites
