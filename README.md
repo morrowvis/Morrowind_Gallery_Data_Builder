@@ -16,6 +16,8 @@ These are prerequisites across all tools, and not all are needed for individual 
 * [Blender 5](https://www.blender.org/download/releases/5-0/)
 * [Morrowind Blender Plugin](https://github.com/Greatness7/io_scene_mw)
 * [io_scene_mw_mvp](https://github.com/ms-arch-mvp/io_scene_mw_mvp)
+* [Mod Organizer 2](https://github.com/Modorganizer2/modorganizer/releases) launched with latest load order
+* Loose vanilla meshes in Data Files/Meshes (such as with gog version)
 * Blender path set correctly in `config.ini` files
 * Texture Paths set correctly in `Preferences/Add-ons/Morrowind (.nif)/Texture Paths`
 * Windows
