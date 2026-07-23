@@ -10,6 +10,7 @@ These are prerequisites across all tools, and not all are needed for individual 
 <br>Warnings will display if the prerequisite is missing.
 * [tes3conv](https://github.com/Greatness7/tes3conv) in `Shared` folder
 * [oxipng](https://github.com/oxipng) in `Shared` folder
+* Paths set correctly in `Shared\config.ini`
 * [Python](https://www.python.org/downloads/)
 * [IrfanView](https://www.irfanview.com/)
 * [IrfanView Plugins](https://www.irfanview.com/plugins.htm)
@@ -18,6 +19,5 @@ These are prerequisites across all tools, and not all are needed for individual 
 * [io_scene_mw_mvp](https://github.com/ms-arch-mvp/io_scene_mw_mvp)
 * [Mod Organizer 2](https://github.com/Modorganizer2/modorganizer/releases) launched with latest load order
 * Loose vanilla meshes in Data Files/Meshes (such as with gog version)
-* Blender path set correctly in `config.ini` files
 * Texture Paths set correctly in `Preferences/Add-ons/Morrowind (.nif)/Texture Paths`
 * Windows
